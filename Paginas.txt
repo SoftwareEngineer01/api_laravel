@@ -1,0 +1,2 @@
+https://kode-blog.io/laravel-5-rest-api
+https://www.netireki.eus/crear-rest-api-con-laravel-step-1/
